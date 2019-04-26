@@ -1,0 +1,10 @@
+[12-Apr-2018 23:34:33 UTC] PHP Catchable fatal error:  Object of class opcoes could not be converted to string in /home/ubuntu/workspace/Abril/Simulado/ex3.php on line 36
+[12-Apr-2018 23:34:33 UTC] PHP Stack trace:
+[12-Apr-2018 23:34:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/Abril/Simulado/ex3.php:0
+[12-Apr-2018 23:35:26 UTC] PHP Fatal error:  Using $this when not in object context in /home/ubuntu/workspace/Abril/Simulado/ex3.php on line 36
+[12-Apr-2018 23:35:26 UTC] PHP Stack trace:
+[12-Apr-2018 23:35:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/Abril/Simulado/ex3.php:0
+[12-Apr-2018 23:35:52 UTC] PHP Catchable fatal error:  Object of class opcoes could not be converted to string in /home/ubuntu/workspace/Abril/Simulado/ex3.php on line 36
+[12-Apr-2018 23:35:52 UTC] PHP Stack trace:
+[12-Apr-2018 23:35:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/Abril/Simulado/ex3.php:0
+[12-Apr-2018 23:43:22 UTC] PHP Parse error:  syntax error, unexpected 'endswitch' (T_ENDSWITCH), expecting case (T_CASE) or default (T_DEFAULT) or '}' in /home/ubuntu/workspace/Abril/Simulado/ex3.php on line 30

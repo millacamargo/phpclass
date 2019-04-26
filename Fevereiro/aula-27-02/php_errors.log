@@ -1,0 +1,8 @@
+[13-Apr-2018 00:30:43 UTC] PHP Warning:  Missing argument 1 for jogo::sortear(), called in /home/ubuntu/workspace/Fevereiro/aula-27-02/lista 1/ex5.php on line 34 and defined in /home/ubuntu/workspace/Fevereiro/aula-27-02/lista 1/ex5.php on line 18
+[13-Apr-2018 00:30:43 UTC] PHP Stack trace:
+[13-Apr-2018 00:30:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/Fevereiro/aula-27-02/lista 1/ex5.php:0
+[13-Apr-2018 00:30:43 UTC] PHP   2. jogo->sortear() /home/ubuntu/workspace/Fevereiro/aula-27-02/lista 1/ex5.php:34
+[13-Apr-2018 00:31:31 UTC] PHP Warning:  Missing argument 1 for jogo::adivinhar(), called in /home/ubuntu/workspace/Fevereiro/aula-27-02/lista 1/ex5.php on line 35 and defined in /home/ubuntu/workspace/Fevereiro/aula-27-02/lista 1/ex5.php on line 24
+[13-Apr-2018 00:31:31 UTC] PHP Stack trace:
+[13-Apr-2018 00:31:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/Fevereiro/aula-27-02/lista 1/ex5.php:0
+[13-Apr-2018 00:31:31 UTC] PHP   2. jogo->adivinhar() /home/ubuntu/workspace/Fevereiro/aula-27-02/lista 1/ex5.php:35

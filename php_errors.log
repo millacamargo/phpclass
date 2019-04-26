@@ -1,0 +1,97 @@
+[20-Feb-2018 14:01:09 UTC] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home/ubuntu/workspace/aula 0/index.php on line 2
+[06-Mar-2018 13:49:28 UTC] PHP Fatal error:  Class 'Calculadora' not found in /home/ubuntu/workspace/aula-06-03/exe1.php on line 27
+[06-Mar-2018 13:49:28 UTC] PHP Stack trace:
+[06-Mar-2018 13:49:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/aula-06-03/exe1.php:0
+[06-Mar-2018 13:50:00 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/aula-06-03/exe1.php on line 21
+[06-Mar-2018 13:50:00 UTC] PHP Stack trace:
+[06-Mar-2018 13:50:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/aula-06-03/exe1.php:0
+[06-Mar-2018 13:50:00 UTC] PHP   2. IMC->dividir() /home/ubuntu/workspace/aula-06-03/exe1.php:28
+[06-Mar-2018 13:53:11 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/aula-06-03/exe1.php on line 21
+[06-Mar-2018 13:53:11 UTC] PHP Stack trace:
+[06-Mar-2018 13:53:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/aula-06-03/exe1.php:0
+[06-Mar-2018 13:53:11 UTC] PHP   2. IMC->dividir() /home/ubuntu/workspace/aula-06-03/exe1.php:28
+[06-Mar-2018 13:55:08 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/aula-06-03/exe1.php on line 21
+[06-Mar-2018 13:55:08 UTC] PHP Stack trace:
+[06-Mar-2018 13:55:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/aula-06-03/exe1.php:0
+[06-Mar-2018 13:55:08 UTC] PHP   2. IMC->dividir() /home/ubuntu/workspace/aula-06-03/exe1.php:28
+[06-Mar-2018 13:57:34 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/aula-06-03/exe1.php on line 22
+[06-Mar-2018 13:57:34 UTC] PHP Stack trace:
+[06-Mar-2018 13:57:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/aula-06-03/exe1.php:0
+[06-Mar-2018 13:57:34 UTC] PHP   2. IMC->dividir() /home/ubuntu/workspace/aula-06-03/exe1.php:29
+[06-Mar-2018 13:57:36 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/aula-06-03/exe1.php on line 22
+[06-Mar-2018 13:57:36 UTC] PHP Stack trace:
+[06-Mar-2018 13:57:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/aula-06-03/exe1.php:0
+[06-Mar-2018 13:57:36 UTC] PHP   2. IMC->dividir() /home/ubuntu/workspace/aula-06-03/exe1.php:29
+[06-Mar-2018 13:58:12 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/aula-06-03/exe1.php on line 22
+[06-Mar-2018 13:58:12 UTC] PHP Stack trace:
+[06-Mar-2018 13:58:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/aula-06-03/exe1.php:0
+[06-Mar-2018 13:58:12 UTC] PHP   2. IMC->dividir() /home/ubuntu/workspace/aula-06-03/exe1.php:29
+[06-Mar-2018 13:58:14 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/aula-06-03/exe1.php on line 22
+[06-Mar-2018 13:58:14 UTC] PHP Stack trace:
+[06-Mar-2018 13:58:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/aula-06-03/exe1.php:0
+[06-Mar-2018 13:58:14 UTC] PHP   2. IMC->dividir() /home/ubuntu/workspace/aula-06-03/exe1.php:29
+[06-Mar-2018 13:59:55 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/aula-06-03/exe1.php on line 21
+[06-Mar-2018 13:59:55 UTC] PHP Stack trace:
+[06-Mar-2018 13:59:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/aula-06-03/exe1.php:0
+[06-Mar-2018 13:59:55 UTC] PHP   2. IMC->dividir() /home/ubuntu/workspace/aula-06-03/exe1.php:28
+[06-Mar-2018 14:02:33 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/aula-06-03/exe1.php on line 21
+[06-Mar-2018 14:02:33 UTC] PHP Stack trace:
+[06-Mar-2018 14:02:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/aula-06-03/exe1.php:0
+[06-Mar-2018 14:02:33 UTC] PHP   2. IMC->dividir() /home/ubuntu/workspace/aula-06-03/exe1.php:28
+[06-Mar-2018 14:38:04 UTC] PHP Fatal error:  Class 'Calculadora' not found in /home/ubuntu/workspace/aula-06-03/exe2.php on line 22
+[06-Mar-2018 14:38:04 UTC] PHP Stack trace:
+[06-Mar-2018 14:38:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/aula-06-03/exe2.php:0
+[06-Mar-2018 14:41:13 UTC] PHP Fatal error:  Class 'Calculadora' not found in /home/ubuntu/workspace/aula-06-03/exe2.php on line 22
+[06-Mar-2018 14:41:13 UTC] PHP Stack trace:
+[06-Mar-2018 14:41:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/aula-06-03/exe2.php:0
+[13-Mar-2018 14:10:39 UTC] PHP Fatal error:  Call to a member function desarregar() on a non-object in /home/ubuntu/workspace/aula-13-03/ex.php on line 34
+[13-Mar-2018 14:10:39 UTC] PHP Stack trace:
+[13-Mar-2018 14:10:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/aula-13-03/ex.php:0
+[13-Mar-2018 14:10:39 UTC] PHP   2. Celular->ligar() /home/ubuntu/workspace/aula-13-03/ex.php:40
+[13-Mar-2018 14:11:00 UTC] PHP Fatal error:  Call to a member function desarregar() on a non-object in /home/ubuntu/workspace/aula-13-03/ex.php on line 34
+[13-Mar-2018 14:11:00 UTC] PHP Stack trace:
+[13-Mar-2018 14:11:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/aula-13-03/ex.php:0
+[13-Mar-2018 14:11:00 UTC] PHP   2. Celular->ligar() /home/ubuntu/workspace/aula-13-03/ex.php:40
+[13-Mar-2018 14:18:46 UTC] PHP Fatal error:  Call to undefined method Bateria::cargaAtual() in /home/ubuntu/workspace/aula-13-03/ex.php on line 21
+[13-Mar-2018 14:18:46 UTC] PHP Stack trace:
+[13-Mar-2018 14:18:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/aula-13-03/ex.php:0
+[13-Mar-2018 14:18:46 UTC] PHP   2. Celular->ligar() /home/ubuntu/workspace/aula-13-03/ex.php:41
+[13-Mar-2018 14:18:46 UTC] PHP   3. Bateria->desarregar() /home/ubuntu/workspace/aula-13-03/ex.php:35
+[13-Mar-2018 14:19:13 UTC] PHP Fatal error:  Call to undefined method Bateria::cargaAtual() in /home/ubuntu/workspace/aula-13-03/ex.php on line 21
+[13-Mar-2018 14:19:13 UTC] PHP Stack trace:
+[13-Mar-2018 14:19:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/aula-13-03/ex.php:0
+[13-Mar-2018 14:19:13 UTC] PHP   2. Celular->ligar() /home/ubuntu/workspace/aula-13-03/ex.php:41
+[13-Mar-2018 14:19:13 UTC] PHP   3. Bateria->desarregar() /home/ubuntu/workspace/aula-13-03/ex.php:35
+[13-Mar-2018 14:31:41 UTC] PHP Fatal error:  Call to a member function desarregar() on a non-object in /home/ubuntu/workspace/aula-13-03/ex.php on line 37
+[13-Mar-2018 14:31:41 UTC] PHP Stack trace:
+[13-Mar-2018 14:31:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/aula-13-03/ex.php:0
+[13-Mar-2018 14:31:41 UTC] PHP   2. Celular->ligar() /home/ubuntu/workspace/aula-13-03/ex.php:43
+[13-Mar-2018 14:32:07 UTC] PHP Fatal error:  Call to a member function desarregar() on a non-object in /home/ubuntu/workspace/aula-13-03/ex.php on line 37
+[13-Mar-2018 14:32:07 UTC] PHP Stack trace:
+[13-Mar-2018 14:32:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/aula-13-03/ex.php:0
+[13-Mar-2018 14:32:07 UTC] PHP   2. Celular->ligar() /home/ubuntu/workspace/aula-13-03/ex.php:43
+[10-Apr-2018 03:03:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/lista 1/ex5.php on line 23
+[08-May-2018 14:35:55 UTC] PHP Fatal error:  require_once(): Failed opening required '../models/Quadrado.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/ci/application/controllers/Figura.php on line 16
+[08-May-2018 14:35:55 UTC] PHP Stack trace:
+[08-May-2018 14:35:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/ci/index.php:0
+[08-May-2018 14:35:55 UTC] PHP   2. require_once() /home/ubuntu/workspace/ci/index.php:315
+[08-May-2018 14:35:55 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/ci/system/core/CodeIgniter.php:532}() /home/ubuntu/workspace/ci/system/core/CodeIgniter.php:532
+[08-May-2018 14:35:55 UTC] PHP   4. Figura->calculo() /home/ubuntu/workspace/ci/system/core/CodeIgniter.php:532
+[08-May-2018 14:38:24 UTC] PHP Fatal error:  require_once(): Failed opening required '../models/Quadrado.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/ci/application/controllers/Figura.php on line 16
+[08-May-2018 14:38:24 UTC] PHP Stack trace:
+[08-May-2018 14:38:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/ci/index.php:0
+[08-May-2018 14:38:24 UTC] PHP   2. require_once() /home/ubuntu/workspace/ci/index.php:315
+[08-May-2018 14:38:24 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/ci/system/core/CodeIgniter.php:532}() /home/ubuntu/workspace/ci/system/core/CodeIgniter.php:532
+[08-May-2018 14:38:24 UTC] PHP   4. Figura->calculo() /home/ubuntu/workspace/ci/system/core/CodeIgniter.php:532
+[08-May-2018 14:39:29 UTC] PHP Fatal error:  require_once(): Failed opening required '../models/Quadrado.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/ci/application/controllers/Figura.php on line 16
+[08-May-2018 14:39:29 UTC] PHP Stack trace:
+[08-May-2018 14:39:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/ci/index.php:0
+[08-May-2018 14:39:29 UTC] PHP   2. require_once() /home/ubuntu/workspace/ci/index.php:315
+[08-May-2018 14:39:29 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/ci/system/core/CodeIgniter.php:532}() /home/ubuntu/workspace/ci/system/core/CodeIgniter.php:532
+[08-May-2018 14:39:29 UTC] PHP   4. Figura->calculo() /home/ubuntu/workspace/ci/system/core/CodeIgniter.php:532
+[08-May-2018 14:41:52 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/ci/application/../models/Quadrado.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/ci/application/controllers/Figura.php on line 16
+[08-May-2018 14:41:52 UTC] PHP Stack trace:
+[08-May-2018 14:41:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/ci/index.php:0
+[08-May-2018 14:41:52 UTC] PHP   2. require_once() /home/ubuntu/workspace/ci/index.php:315
+[08-May-2018 14:41:52 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/ci/system/core/CodeIgniter.php:532}() /home/ubuntu/workspace/ci/system/core/CodeIgniter.php:532
+[08-May-2018 14:41:52 UTC] PHP   4. Figura->calculo() /home/ubuntu/workspace/ci/system/core/CodeIgniter.php:532

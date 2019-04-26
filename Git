@@ -1,0 +1,12 @@
+git init -> Inicializa um repo local         1
+git status -> Vê a situaçao dos arquivos
+git add <arquivo> -> Coloca um arquivo ao tracking
+git add . -> Coloca TODOS os arquivos possíveis ao tracking
+
+git commit -m "MSG" -> Efetua um commit com essa mensagem
+git remote add origin https://github.com/romefeller/testephp.git 1
+-> Seta o repositório remoto a partir da url dada.
+
+git push origin master -> MANDA O COMMIT LOCAL PARA O REMOTO!
+
+git pull origin master -> ATUALIZA O SEU LOCAL.

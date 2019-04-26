@@ -1,0 +1,18 @@
+1) mysql-ctl install
+
+2) mysql-ctl start
+
+3) phpmyadmin-ctl install
+
+4) wget https://github.com/bcit-ci/CodeIgniter/archive/3.1.8.zip
+
+5) unzip 3.1.8.zip
+
+
+MVC (model-view-controller)= 3 camadas do projeto
+view = cria-se uma pasta views para colocar o front-end
+model = são as query, a logica de negocio + persistencia de dados. O que separa os dois é o dao. pack-end.
+controller = pega dados do model manda pra view e vice-versa (manipula) + rotas 
+
+rota
+url.com/ci/index.php/home(classe)/metodo
